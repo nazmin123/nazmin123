@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Infosys Limited**
 
-- 🌱 I’m currently learning **Flutter development and React Native**
+- 🌱 I’m currently learning **Flutter and React Native**
 
 - 💬 Ask me about **android , Kotlin**
 
