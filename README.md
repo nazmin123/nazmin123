@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazmin Parween</h1>
-<h3 align="center">A passionate android developer from Ranchi, Jharkhand</h3>
+<h3 align="center">A passionate mobile app developer from Ranchi, Jharkhand</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmin123&label=Profile%20views&color=0e75b6&style=flat" alt="nazmin123" /> </p>
