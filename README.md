@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter and React Native**
 
-- 💬 Ask me about **android , Kotlin, iOS, Swift, RxSwift**
+- 💬 Ask me about **android , Kotlin, iOS, Swift, RxSwift, SwiftUI, Combine**
 
 - 📫 How to reach me **nazminparween23@gmail.com**
 
